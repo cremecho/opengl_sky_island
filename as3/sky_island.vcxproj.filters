@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1824097_Wen_Tianxi.cpp">
+    <ClCompile Include="sky_island.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
