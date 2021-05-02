@@ -1,6 +1,3 @@
-// Title: Assignment3: 3D Project
-// Student Name: Tianxi Wen
-// Student ID: 1824097
 
 #define GLEW_STATIC
 #define FREEGLUT_STATIC
